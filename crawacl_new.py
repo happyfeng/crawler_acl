@@ -7,7 +7,6 @@ import os
 from BeautifulSoup import BeautifulSoup
 # 抓取2010年到2013年的论文
 
-
 def getsite(url):
     page = urllib.urlopen(url)
     soup = BeautifulSoup(page)
