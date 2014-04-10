@@ -25,7 +25,6 @@ def pdfcn():
             finallist.append(filename[:-4])
             #print finallist
 
-
     #path = r'D:\dataset\aclpdf2'
     #filelist = os.listdir(path)
     for pdf in finallist:
