@@ -3,7 +3,7 @@ crawler_acl
 
 爬去acl会议的论文，分析处理过程。
 
-crawacl_new.py ---爬去acl会议的所有论文
+crawacl_new.py ---爬取acl会议的所有论文
 
 download.py --下载
 
